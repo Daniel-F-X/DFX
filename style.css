@@ -3,4 +3,16 @@ body{
 }
 h1{
     color: aliceblue;
+    
+}
+#Agua{
+    position:absolute;
+    top:500px;
+    width:100vw; 
+}
+#Licras{
+    position:absolute;
+    z-index: 2;
+    top:2000px;
+    width:100vw;
 }

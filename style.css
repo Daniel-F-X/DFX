@@ -31,6 +31,12 @@ h1{
     top:2px;
     width:5vw;
 }
+a:link,a:visited,a:hover{
+    color: rgb(16, 16, 16);
+  } 
+  a:active{
+    color:rgb(234, 207, 4);
+  }
 .tabla_2 {
     width: 100%;
     display: flex;

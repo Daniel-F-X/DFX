@@ -22,8 +22,29 @@ h1{
 #Licras{
     position:absolute;
     z-index: 2;
-    top:2000px;
-    width:50vw;
+    top:600px;
+    width:30vw;
+}
+#Casco{
+    position:absolute;
+    z-index: 2;
+    top:1200px;
+    width:30vw;
+    
+}
+#Comida{
+    position:absolute;
+    z-index: 2;
+    top:1800px;
+    width:30vw;
+    
+}
+#Mapa{
+    position:absolute;
+    z-index: 2;
+    top:2400px;
+    width:30vw;
+    
 }
 #Logo{
     position:absolute;
